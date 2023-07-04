@@ -57,4 +57,38 @@ solution:
         4
         5
         6
+# Continue Statement
+Recall that 'break' exit the loop entirely when its condition was met - ignoring all subsequent iterations.
+The 'continue' statement skips one iteration (in the loop), if a specified condition occurs, and continues with the next iteration in the loop.
 
+    numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    
+    for number in numbers:
+        if number % 2 == 0:
+            continue
+        print(number)
+In this example, the 'for' loop iterates over each number in the 'numbers' list.
+Inside the loop, there is an 'if' statement that checks if the current number is even (divisible by 2).
+If the condition is true, the 'continue' statement is executed, and the remaining code block for that iteration is skipped.
+
+As a result, when an even number is encountered, the 'continue' statement is triggered, and the program jumps back to the beginning of the loop for the next iteration, without executing the 'print' statement.
+
+Therefore, only the odd numbers in the list will be printed.
+
+# Task
+Write a program that does the following
+* Declare a variable n and set it to a user defined input
+* Output to the console a series of numbers from 1 to 10 with the following condition
+  * Skips the number inserted by the user.
+
+solution:
+
+        1
+        2
+        3
+        4
+        6
+        7
+        8
+        9
+        10
