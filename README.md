@@ -172,3 +172,14 @@ Lets write a program in the IDE which performs the following
     1 2 3 4 5
     11 22 33 44 55
     1 23 456 789 101112
+# Number mirror - Negative integer    
+Let us now solve some programming problems. Note that
+
+* In the IDE - the '#' - comments will give you hints about what you need to do
+* The Solution tab also has '#' - comments which give you helpful information
+# Task
+Write a program in the IDE which does the following
+
+* Accepts the count of test cases - t - in the 1st line
+   * The only line of each test case consists of an integer N
+* You need to generate the following output - Change the sign of  N.
