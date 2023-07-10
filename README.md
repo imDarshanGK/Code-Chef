@@ -183,3 +183,10 @@ Write a program in the IDE which does the following
 * Accepts the count of test cases - t - in the 1st line
    * The only line of each test case consists of an integer N
 * You need to generate the following output - Change the sign of  N.
+# String mirror - Double strings
+Write a program in the IDE which does the following
+* Accepts the count of test cases - t - in the 1st line
+  * First line of each test case consists of a string S
+* You need to perform the following operation
+  * Create a variable X which contains the string S concatenated with the string S
+  * Output X for each test case
