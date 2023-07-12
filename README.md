@@ -190,3 +190,15 @@ Write a program in the IDE which does the following
 * You need to perform the following operation
   * Create a variable X which contains the string S concatenated with the string S
   * Output X for each test case
+# Practice problem - Tuition fees
+Let's solve this practice problem.
+
+* You will attend tuitions for X weeks, and the cost of tuition per week is Y dollars.
+* You need to compute and output your total tuition fees.
+
+# Hint
+* Refer to the multiplication syntax you learnt in the previous questions
+* Run your code on the sample test cases before submitting the same
+# Input Format
+* The first line of input will contain an integer T — the number of test cases.
+* The first and only line of each test case contains two space-separated integers X and Y
