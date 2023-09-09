@@ -262,3 +262,12 @@ You need to compute and output the following for each test case.
       Doesn't matter
       A and B are different and are even
       Doesn't matter
+# Debug this code - Advance
+
+The code in the IDE is incorrect - debug the code to solve this problem!
+
+Chef's current rating is X, and he wants to improve it.
+It is generally recommended that a person with rating X should solve problems whose difficulty lies 
+in the range [X,X+200], i.e, problems whose difficulty is at least X and at most X+200.
+You find out that Chef is currently solving problems with a difficulty of Y.
+Is Chef following the recommended practice or not?
