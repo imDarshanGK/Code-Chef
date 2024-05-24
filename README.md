@@ -1,5 +1,5 @@
-# Code-Chef
-CodeChef
+# Code Chef
+Code Chef
 
 Arrays in Python are commonly referred to as lists.
 
@@ -140,6 +140,7 @@ Lets write a program in the IDE which performs the following
      * The 2nd line of input has 3 space separated integers - accept them as variables C, D and E
  * For each test case - output all integers on a single line
 # Sample 1:
+
    # Input 
     3
     1 2
@@ -147,7 +148,8 @@ Lets write a program in the IDE which performs the following
     11 22
     33 44 55
     1 23
-    456 789 101112
+    456 789 101111
+    
 # Explanation:
     2 lines of input in test case 1:
     1 2
@@ -172,6 +174,7 @@ Lets write a program in the IDE which performs the following
     1 2 3 4 5
     11 22 33 44 55
     1 23 456 789 101112
+    
 # Number mirror - Negative integer    
 Let us now solve some programming problems. Note that
 
