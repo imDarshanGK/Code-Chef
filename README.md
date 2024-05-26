@@ -15,12 +15,14 @@ Consider the list 'fruits' and 'numbers' below
     fruits = ["apple", "banana", "orange", "grape"]
 
     numbers = [20, 10, 0, -5]
+    
 # Task
 
 Write a program which does the following
 
 * Create an Array of the first 5 positive integers - name it 'integers'
 * Once the array is define - output "Done" to the console.
+
 # While Loop
 Loops can execute a block of code as long as a specified condition is reached.
 They are handy because they save time, reduce errors, and they make code more readable.
