@@ -59,6 +59,7 @@ solution:
         4
         5
         6
+        
 # Continue Statement
 Recall that 'break' exit the loop entirely when its condition was met - ignoring all subsequent iterations.
 The 'continue' statement skips one iteration (in the loop), if a specified condition occurs, and continues with the next iteration in the loop.
@@ -94,6 +95,7 @@ solution:
         8
         9
         10
+        
 # Data Types
 Lets look at some common data types found in programming problems for beginners
 
