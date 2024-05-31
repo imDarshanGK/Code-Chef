@@ -47,7 +47,7 @@ Write a program which does the following
       * Print a in separate lines as long as it is less than 7.
       * Increment a by 1 in each iteration.
         
-solution:
+Solution:
 
         0
         1
@@ -143,7 +143,7 @@ Lets write a program in the IDE which performs the following
      * The 1st line of input has 2 space separated integers - accept them as variables A and B
      * The 2nd line of input has 3 space separated integers - accept them as variables C, D and E
  * For each test case - output all integers on a single line
- * 
+ 
 # Sample 1:
 
     Input 
