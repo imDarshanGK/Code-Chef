@@ -59,6 +59,7 @@ Solution:
         
 # Continue Statement
 Recall that 'break' exit the loop entirely when its condition was met - ignoring all subsequent iterations.
+
 The 'continue' statement skips one iteration (in the loop), if a specified condition occurs, and continues with the next iteration in the loop.
 
     numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
