@@ -161,16 +161,19 @@ Lets write a program in the IDE which performs the following
     2 lines of input in test case 1:
     1 2
     3 4 5
+    
     Output 1: 1 2 3 4 5
 
     2 lines of input in test case 2:
     11 22
     33 44 55
+    
     Output 2: 11 22 33 44 55
 
     2 lines of input in test case 3:
     1 23
     456 789 101112
+    
     Output 3: 1 23 456 789 101112
 
  # Output
