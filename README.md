@@ -183,7 +183,7 @@ Lets write a program in the IDE which performs the following
     1 23 456 789 101112
     
 # Number mirror - Negative integer    
-Let us now solve some programming problems. Note that
+Let us now solve some programming problems.
 
 * In the IDE - the '#' - comments will give you hints about what you need to do
 * The Solution tab also has '#' - comments which give you helpful information
